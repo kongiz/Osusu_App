@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Osusu",
+    "slug": "osusu",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#1B6B3A"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#1B6B3A"
+      },
+      "package": "com.osusu.gambia"
+    },
+    "platforms": ["android", "ios"]
+  }
+}
